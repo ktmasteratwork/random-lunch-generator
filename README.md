@@ -2,9 +2,10 @@
 
 A01 project for the LLM4Rec course: a lightweight web recommender that suggests a random lunch option and displays a verified visual representation.
 
-## Live app
+## Live demo
 
-The app is designed to be published with GitHub Pages from the `main` branch.
+- **GitHub Pages:** https://ktmasteratwork.github.io/random-lunch-generator/
+- **Source code:** https://github.com/ktmasteratwork/random-lunch-generator
 
 ## What changed from the baseline
 
@@ -36,4 +37,6 @@ Open `index.html` in a browser.
 
 ## Deployment
 
-Enable GitHub Pages in **Settings → Pages** and deploy from the `main` branch, root (`/`).
+The application is deployed with GitHub Pages from the `main` branch and is available over HTTPS at:
+
+https://ktmasteratwork.github.io/random-lunch-generator/
